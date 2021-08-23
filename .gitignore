@@ -27,6 +27,7 @@ hs_err_pid*
 *.iml
 *.ipr
 out/
+target/
 
 # macOS
 *.DD_Store
