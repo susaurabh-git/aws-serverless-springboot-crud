@@ -27,8 +27,7 @@ public class CognitoIdentityFilter implements Filter {
     private static Logger log = LoggerFactory.getLogger(CognitoIdentityFilter.class);
 
     @Override
-    public void init(FilterConfig filterConfig)
-            throws ServletException {
+    public void init(FilterConfig filterConfig) {
         // nothing to do in init
     }
 
