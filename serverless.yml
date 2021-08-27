@@ -19,8 +19,8 @@ package:
 functions:
   crud-api:
     package:
-      artifact: target/aws-serverless-springboot-crud-1.0.0-SNAPSHOT-lambda-package.zip
-    handler: us.innodea.aws.serverless.springboot.crud.StreamLambdaHandler::handleRequest
+      artifact: target/aws-springboot-crud-1.0.0-SNAPSHOT-lambda-package.zip
+    handler: us.innodea.aws.springboot.crud.StreamLambdaHandler::handleRequest
     events:
       - http:
           path: /{proxy+}

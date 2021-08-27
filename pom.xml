@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>us.innodea</groupId>
-    <artifactId>aws-serverless-springboot-crud</artifactId>
+    <artifactId>aws-springboot-crud</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <parent>
         <artifactId>spring-boot-parent</artifactId>

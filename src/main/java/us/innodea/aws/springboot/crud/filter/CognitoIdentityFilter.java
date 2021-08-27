@@ -1,4 +1,4 @@
-package us.innodea.aws.serverless.springboot.crud.filter;
+package us.innodea.aws.springboot.crud.filter;
 
 import com.amazonaws.serverless.proxy.RequestReader;
 import com.amazonaws.serverless.proxy.model.AwsProxyRequestContext;

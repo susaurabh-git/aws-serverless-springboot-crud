@@ -1,9 +1,9 @@
-package us.innodea.aws.serverless.springboot.crud.service;
+package us.innodea.aws.springboot.crud.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import us.innodea.aws.serverless.springboot.crud.model.CreateUserRequest;
-import us.innodea.aws.serverless.springboot.crud.model.User;
+import us.innodea.aws.springboot.crud.model.CreateUserRequest;
+import us.innodea.aws.springboot.crud.model.User;
 
 import java.util.*;
 @Slf4j

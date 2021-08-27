@@ -1,11 +1,11 @@
-package us.innodea.aws.serverless.springboot.crud.controller;
+package us.innodea.aws.springboot.crud.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
-import us.innodea.aws.serverless.springboot.crud.model.CreateUserRequest;
-import us.innodea.aws.serverless.springboot.crud.model.User;
-import us.innodea.aws.serverless.springboot.crud.service.UserService;
+import us.innodea.aws.springboot.crud.model.CreateUserRequest;
+import us.innodea.aws.springboot.crud.model.User;
+import us.innodea.aws.springboot.crud.service.UserService;
 
 import java.util.*;
 

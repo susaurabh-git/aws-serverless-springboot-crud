@@ -1,4 +1,4 @@
-package us.innodea.aws.serverless.springboot.crud;
+package us.innodea.aws.springboot.crud;
 
 import com.amazonaws.serverless.exceptions.ContainerInitializationException;
 import com.amazonaws.serverless.proxy.model.AwsProxyRequest;

@@ -1,4 +1,4 @@
-package us.innodea.aws.serverless.springboot.crud.model;
+package us.innodea.aws.springboot.crud.model;
 
 import lombok.Getter;
 
